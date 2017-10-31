@@ -40,7 +40,7 @@ src/8.1: JSON Export of the Omnis Studio Demo Library
 ```javascript
  <script type="text/javascript" src="scripts/jquery.event.move.js"></script>   
  <script type="text/javascript" src="scripts/jquery.twentytwenty.js"></script>
- <script type="text/javascript" src="scripts/ctrl_2020.js"></script>
+ <script type="text/javascript" src="scripts/ctl_2020.js"></script>
 ```
 5. Start Omnis Studio.
 6. With the libraries node selected in the Studio Browser, press the New Lib from JSON hyperlink, set the JSON Tree Path to the OMNIS-2020 folder (containing demo library exported as JSON) and select a location for your new library.
